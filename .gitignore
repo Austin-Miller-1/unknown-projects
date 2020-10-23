@@ -1,0 +1,9 @@
+//Global
+**/.vscode/
+
+//Pascal files
+pascal/**/lib/
+pascal/**/backup/
+pascal/**/*.exe
+pascal/**/*.res
+*.lps
